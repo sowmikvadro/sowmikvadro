@@ -1,4 +1,4 @@
-# Hi, I'm Sowmik 👋
+# Hi, I'm Sowmik 
 
 🎓 Computer Science and Engineering student  
 💻 Interested in Blockchain Development & Smart Contracts  
