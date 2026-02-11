@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sowmik 👋
 
-<!--
-**sowmikvadro/sowmikvadro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering student  
+💻 Interested in Blockchain Development & Smart Contracts  
+🐍 Python | C/C++ | Data Structures & Algorithms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Solidity & Ethereum Fundamentals
+- Smart Contract Development
+- Git & Version Control
+- Core Computer Science Concepts
+
+---
+
+## 📌 Goals for 2026
+- Build real-world blockchain projects
+- Develop secure and optimized smart contracts
+- Contribute to open-source
+- Secure a junior blockchain developer role
+
+---
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/sowmikvadro-web3
